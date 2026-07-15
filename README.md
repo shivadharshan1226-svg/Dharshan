@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Dharshan C
+# 👋 Hi, I'm Dharshan C 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Final+Year+B.Tech+IT+Student;Data+Analyst;Power+BI+Developer;Python+Programmer;Aspiring+Full+Stack+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi,+I'm+Dharshan+C+👋;Data+Analyst;Web+Developer;Power+BI+Developer;Full+Stack+Developer;Open+to+Internships+and+Opportunities" />
 
 </div>
 
