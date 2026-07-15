@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Dharshan C 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi,+I'm+Dharshan+C+👋;Data+Analyst;Web+Developer;Power+BI+Developer;Full+Stack+Developer;Open+to+Internships+and+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi,+I'm+Dharshan+C;Data+Analyst;Web+Developer;Power+BI+Developer;Full+Stack+Developer;Open+to+Internships+and+Opportunities" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Dharshan%20C&fontAlign=50&fontAlignY=38&fontSize=48&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20Python%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Dharshan%20C&fontAlign=50&fontAlignY=38&fontSize=48&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20Web%20Developer&descAlignY=58"/>
 
 ---
 
